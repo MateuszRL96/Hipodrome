@@ -13,6 +13,7 @@ public class Main {
         game.getHorses().add(new Horse("Kon2", 3,0));
         game.getHorses().add(new Horse("Kon3", 3,0));
         game.run();
+        game.printWinner();
     }
 }
 
