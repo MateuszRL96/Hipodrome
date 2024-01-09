@@ -13,6 +13,6 @@ public class Main {
          SwingUtilities.invokeLater(() -> {
             SnakeGame snakeGame = new SnakeGame();
             snakeGame.setVisible(true);
-        });
+        });*/
 
 
